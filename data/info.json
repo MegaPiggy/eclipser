@@ -1,6 +1,7 @@
 {
  "info": [
  {
+ "name": "Sun",
  "parent":-1,
  "dist":0,
  "period":1,
@@ -15,6 +16,7 @@
  "precession":0
  },
  {
+ "name": "Earth",
  "parent":0,
  "dist":400,
  "period":1826.25,
@@ -26,9 +28,10 @@
  "tickmarks":12,
  "acrosses":0,
  "lighter":0,
- "precession":0
+ "precession":358
  },
  {
+ "name": "Moon",
  "parent":1,
  "dist":100,
  "period":136.605,
@@ -43,20 +46,22 @@
  "precession":30
  },
  {
+ "name": "Mars",
  "parent":0,
  "dist":640,
  "period":3435,
  "period_offset":0.5,
- "inclination":2,
+ "inclination":1.85,
  "color":{"r":255,"g":0,"b":0},
  "radius":20,
  "ray_len":0,
  "tickmarks":12,
  "acrosses":0,
  "lighter":0,
- "precession":2
+ "precession":19
  },
  {
+ "name": "Phobos",
  "parent":3,
  "dist":25,
  "period":1.59375,
@@ -71,6 +76,7 @@
  "precession":45
  },
  {
+ "name": "Deimos",
  "parent":3,
  "dist":40,
  "period":6.31,
