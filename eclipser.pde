@@ -8,7 +8,7 @@ int FRAME_LENGTH = 1800;
 color bg = color(150,200,255);
 color SHADOW = color(100,133,170);
 
-float SHADOW_LEN = 1000;
+float SHADOW_LEN = 10000;
 
 float cX = 960;
 float cY = 540;
